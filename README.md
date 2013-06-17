@@ -58,7 +58,7 @@ The `aliases` array should now look like the snippet below:
 ~~~php
 'aliases' => array(
     ...
-  'Goutte' => 'Elvedia\Goutte\Facades\GoutteFacade',
+  'Goutte' => 'Elvedia\Goutte\Facades\Laravel\GoutteFacade',
 ),
 ~~~
 
