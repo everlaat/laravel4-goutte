@@ -35,7 +35,7 @@ $ composer dump-autoload
 Next, we need to install the package in your Laravel 4 application. Open up the the `app/config/app.php` file and append the following code to the `providers` array:
 
 ~~~php
-"Elvedia\Goutte\Providers\GoutteServiceProvider",
+'Elvedia\Goutte\Providers\GoutteServiceProvider',
 ~~~
 
 The `providers` section should look like the following snippet:

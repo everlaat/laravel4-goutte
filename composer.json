@@ -1,6 +1,6 @@
 {
     "name": "elvedia/goutte",
-    "description": "",
+    "description": "Laravel 4 package of Goutte",
     "authors": [
         {
             "name": "Elvin Verlaat",
