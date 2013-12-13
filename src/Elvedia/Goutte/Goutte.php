@@ -1,7 +1,5 @@
 <?php namespace Elvedia\Goutte;
 
-require_once 'goutte.phar';
-
 use Goutte\Client;
 
 class Goutte {
@@ -13,5 +11,5 @@ class Goutte {
     $client = new Client();
     return $client;
   }
-  
+
 }
