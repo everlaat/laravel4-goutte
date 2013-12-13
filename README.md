@@ -7,7 +7,18 @@ https://github.com/fabpot/Goutte
 
 # Installation
 
-Open up the Laravel 4 `composer.json` file and add the `elvedia/goutte` package to the `require` section:
+Open up the Laravel 4 `composer.json` file and add my repository fork
+
+~~~json
+"repositories": [
+    {
+      "url": "https://github.com/pelletiermaxime/laravel4-goutte.git",
+      "type": "git"
+    }
+  ],
+~~~
+
+add the `elvedia/goutte` package to the `require` section:
 
 ~~~json
 {
