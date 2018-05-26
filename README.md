@@ -12,7 +12,7 @@ Open up the Laravel 4 `composer.json` file and add my repository fork
 ~~~json
 "repositories": [
     {
-      "url": "https://github.com/pelletiermaxime/laravel4-goutte.git",
+      "url": "https://github.com/everlaat/laravel4-goutte.git",
       "type": "git"
     }
   ],
